@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mohd Ayan 👋
 
-<!--
-**BTYxDecode/BTYxDecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner web developer passionate about coding and design.  
+🌱 Currently learning **HTML, CSS, and JavaScript**.  
+🚀 Exploring **React** to build modern web apps.  
 
-Here are some ideas to get you started:
+## 📌 About Me
+- I enjoy creating simple projects to practice my skills.  
+- My goal is to become a full-stack developer.  
+- This repository is where I’ll share my learning journey.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects (Coming Soon!)
+- Portfolio Website  
+- Weather App  
+- To-Do List App  
